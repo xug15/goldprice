@@ -1,0 +1,32 @@
+{
+  "name": "gold-price",
+  "version": "0.0.1",
+  "author": "叶佳",
+  "description": "监控黄金价格",
+  "keywords": [
+    "node.js",
+    "javascript"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plusye/gold-price.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": "7.0.0"
+  },
+  "bugs": {
+    "url": "https://plusye.com",
+    "email": "yejia1996@gmail.com"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "nodemailer": "^4.0.1"
+  },
+  "devDependencies": {},
+  "homepage": "https://github.com/plusye/gold-price#readme",
+  "main": "gold.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
